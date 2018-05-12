@@ -18,6 +18,8 @@ description: The New York Times described this 1899 volume as containing "a larg
   hunting grounds, vagaries of collectors, comparisons of pricing, rules of the chase,
   glamour of bindings, and the auction block." An authoritative yet gossipy discussion
   on the topic of book collecting.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46237#The-Romance-of-Book-Collecting
 gutenberg_issued: '2014-07-09'
 gutenberg_type: Text
 identifiers:
