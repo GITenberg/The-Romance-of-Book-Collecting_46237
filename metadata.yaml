@@ -1,0 +1,40 @@
+_repo: The-Romance-of-Book-Collecting_46237
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46237-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Slater, J. Herbert (John Herbert)
+    aliases:
+    - Slater, John Herbert
+    - Slater, J. H. (John Herbert)
+    birthdate: 1854
+    deathdate: 1921
+    gutenberg_agent_id: '39414'
+    url: http://www.gutenberg.org/2009/agents/39414
+description: The New York Times described this 1899 volume as containing "a large
+  amount of fascinating material about book auctions, book catalogues, lucky finds,
+  hunting grounds, vagaries of collectors, comparisons of pricing, rules of the chase,
+  glamour of bindings, and the auction block." An authoritative yet gossipy discussion
+  on the topic of book collecting.
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46237'
+  lccn: 09021673
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book collecting'
+- !lcsh 'Booksellers and bookselling -- England -- London'
+- !lcsh 'Bibliomania'
+- !lcc 'Z'
+tableOfContents: In eulogy of catalogues -- A comparison of prices -- Some lucky finds
+  -- The Forgotten Lore Society -- Some hunting-grounds of London -- Vagaries of book-hunters
+  -- How fashion lives -- The rules of the chase -- The glamour of bindings -- The
+  hammer and the end.
+title: The Romance of Book-Collecting
+url: http://www.gutenberg.org/ebooks/46237
